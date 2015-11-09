@@ -1,6 +1,8 @@
 # badminton-courts
 badminton-courts is a database that stores prices of renting a badminton court at any hour of the week.
 
+Vizualization link: https://public.tableau.com/profile/chinchon.na#!/vizhome/BadmintonCourts/Dashboard
+
 ## tables
 courts: stores court details including name, address, phone no and coordinates
 
