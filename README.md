@@ -1,5 +1,5 @@
 # badminton-courts
-badminton-courts is a database that stores prices of renting a badminton court at any hour and any day in the week.
+badminton-courts is a database that stores prices of renting a badminton court at any hour of the week.
 
 ## tables
 courts: stores court details including name, address, phone no and coordinates
