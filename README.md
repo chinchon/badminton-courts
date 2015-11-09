@@ -4,7 +4,7 @@ badminton-courts is a database that stores prices of renting a badminton court a
 ## tables
 courts: stores court details including name, address, phone no and coordinates
 
-days: stores 7 days of the week
+days: stores 7 days of a week
 
 prices: stores prices posted on ads by the court managements
 
