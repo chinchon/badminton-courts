@@ -1,3 +1,4 @@
+-- find the prices for every available hour of the courts
 SELECT court_id,day_id,time_id,price,type_id
 FROM prices p
 JOIN days d
