@@ -3,6 +3,8 @@ some badminton courts operate past midnights but consider time after midnight
 as part of the day before its actual day. This procedure fixes that by splitting
 rows into different days if it run past midnights or Sundays
 */
+CREATE PROCEDURE FixDay
+AS 
 
 -- enable auto increment so new rows can be added with primary keys
 ALTER TABLE prices
